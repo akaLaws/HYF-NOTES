@@ -4,6 +4,7 @@
 So the point of context is to avoid props drillig. 
 
 provider : transmitter
+
 consumer : receiver
 
 1. Create the context
