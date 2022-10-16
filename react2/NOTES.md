@@ -18,8 +18,8 @@ So the point of context is to avoid props drillig.
 
 What you want global, as themes, tokens etc. is what you put in context. 
 
-[source code fromt he lesson](https://github.com/tpetrina/hyf-context-tutorial)  
-[video on the lesson]()  
+[source code from the lesson](https://github.com/tpetrina/hyf-context-tutorial)  
+[videorecording of the lesson]()  <-- Video link will work as soon as I know where it's saved 😕  
 [article - how to use context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)  
 [preparation - useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)  
 
