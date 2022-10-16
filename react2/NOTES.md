@@ -22,3 +22,7 @@ What you want global, as themes, tokens etc. is what you put in context.
 [video on the lesson]()  
 [article - how to use context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)  
 [preparation - useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)  
+
+### Credits for examples
+[hyf-context-tutorial by tpetrina](https://github.com/tpetrina/)
+[HackYourFuture by Bytewiz](https://github.com/bytewiz/)
